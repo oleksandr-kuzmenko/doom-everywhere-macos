@@ -1,0 +1,7 @@
+build/
+vendor/
+*.[wW][aA][dD]
+.DS_Store
+__pycache__/
+*.pyc
+assets/
